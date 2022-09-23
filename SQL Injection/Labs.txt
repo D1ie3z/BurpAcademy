@@ -1,0 +1,16 @@
+SQL injection vulnerability in WHERE clause allowing retrieval of hidden data 	1 - APPRENTICE
+LAB 	SQL injection vulnerability allowing login bypass 	1 - APPRENTICE
+LAB 	SQL injection UNION attack, determining the number of columns returned by the query 	2 - PRACTITIONER
+LAB 	SQL injection UNION attack, finding a column containing text 	2 - PRACTITIONER
+LAB 	SQL injection UNION attack, retrieving data from other tables 	2 - PRACTITIONER
+LAB 	SQL injection UNION attack, retrieving multiple values in a single column 	2 - PRACTITIONER
+LAB 	SQL injection attack, querying the database type and version on Oracle 	2 - PRACTITIONER
+LAB 	SQL injection attack, querying the database type and version on MySQL and Microsoft 	2 - PRACTITIONER
+LAB 	SQL injection attack, listing the database contents on non-Oracle databases 	2 - PRACTITIONER
+LAB 	SQL injection attack, listing the database contents on Oracle 	2 - PRACTITIONER
+LAB 	Blind SQL injection with conditional responses 	2 - PRACTITIONER
+LAB 	Blind SQL injection with conditional errors 	2 - PRACTITIONER
+LAB 	Blind SQL injection with time delays 	2 - PRACTITIONER
+LAB 	Blind SQL injection with time delays and information retrieval 	2 - PRACTITIONER
+LAB 	Blind SQL injection with out-of-band interaction 	2 - PRACTITIONER
+LAB 	Blind SQL injection with out-of-band data exfiltration 	2 - PRACTITIONER
