@@ -1,0 +1,14 @@
+LAB 	Username enumeration via different responses 	1 - APPRENTICE
+LAB 	2FA simple bypass 	1 - APPRENTICE
+LAB 	Password reset broken logic 	1 - APPRENTICE
+LAB 	Username enumeration via subtly different responses 	2 - PRACTITIONER
+LAB 	Username enumeration via response timing 	2 - PRACTITIONER
+LAB 	Broken brute-force protection, IP block 	2 - PRACTITIONER
+LAB 	Username enumeration via account lock 	2 - PRACTITIONER
+LAB 	2FA broken logic 	2 - PRACTITIONER
+LAB 	Brute-forcing a stay-logged-in cookie 	2 - PRACTITIONER
+LAB 	Offline password cracking 	2 - PRACTITIONER
+LAB 	Password reset poisoning via middleware 	2 - PRACTITIONER
+LAB 	Password brute-force via password change 	2 - PRACTITIONER
+LAB 	Broken brute-force protection, multiple credentials per request 	3 - EXPERT
+LAB 	2FA bypass using a brute-force attack 	3 - EXPERT
