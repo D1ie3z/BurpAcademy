@@ -1,0 +1,5 @@
+LAB 	Information disclosure in error messages 	1 - APPRENTICE
+LAB 	Information disclosure on debug page 	1 - APPRENTICE
+LAB 	Source code disclosure via backup files 	1 - APPRENTICE
+LAB 	Authentication bypass via information disclosure 	1 - APPRENTICE
+LAB 	Information disclosure in version control history 	2 - PRACTITIONER
