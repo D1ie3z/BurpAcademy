@@ -1,0 +1,5 @@
+LAB 	OS command injection, simple case 	1 - APPRENTICE
+LAB 	Blind OS command injection with time delays 	2 - PRACTITIONER
+LAB 	Blind OS command injection with output redirection 	2 - PRACTITIONER
+LAB 	Blind OS command injection with out-of-band interaction 	2 - PRACTITIONER
+LAB 	Blind OS command injection with out-of-band data exfiltration 	2 - PRACTITIONER
