@@ -1,0 +1,6 @@
+LAB 	File path traversal, simple case 	1 - APPRENTICE
+LAB 	File path traversal, traversal sequences blocked with absolute path bypass 	2 - PRACTITIONER
+LAB 	File path traversal, traversal sequences stripped non-recursively 	2 - PRACTITIONER
+LAB 	File path traversal, traversal sequences stripped with superfluous URL-decode 	2 - PRACTITIONER
+LAB 	File path traversal, validation of start of path 	2 - PRACTITIONER
+LAB 	File path traversal, validation of file extension with null byte bypass 	2 - PRACTITIONER
