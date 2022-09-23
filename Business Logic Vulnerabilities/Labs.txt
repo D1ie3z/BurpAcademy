@@ -1,0 +1,11 @@
+LAB 	Excessive trust in client-side controls 	1 - APPRENTICE
+LAB 	High-level logic vulnerability 	1 - APPRENTICE
+LAB 	Inconsistent security controls 	1 - APPRENTICE
+LAB 	Flawed enforcement of business rules 	1 - APPRENTICE
+LAB 	Low-level logic flaw 	2 - PRACTITIONER
+LAB 	Inconsistent handling of exceptional input 	2 - PRACTITIONER
+LAB 	Weak isolation on dual-use endpoint 	2 - PRACTITIONER
+LAB 	Insufficient workflow validation 	2 - PRACTITIONER
+LAB 	Authentication bypass via flawed state machine 	2 - PRACTITIONER
+LAB 	Infinite money logic flaw 	2 - PRACTITIONER
+LAB 	Authentication bypass via encryption oracle 	2 - PRACTITIONER
